@@ -1,0 +1,39 @@
+<files>
+<file name="Plotagon091786.exe" source="original">
+<mtime>1589111728</mtime>
+<size>364039280</size>
+<md5>25d37c5f9ce9de22039162daa2a578fa</md5>
+<crc32>1c135ec8</crc32>
+<sha1>7c8b97db177a94f9f2a945f329c26eb3567fcd94</sha1>
+<format>Windows Executable</format>
+</file>
+<file name="plotagon-091786_archive.torrent" source="metadata">
+<btih>b4763ac46c0be2cc28e429d12bcbf93949cf444a</btih>
+<mtime>1589112080</mtime>
+<size>15535</size>
+<md5>0ead17a86ed726b477fb6891506b412a</md5>
+<crc32>57b545eb</crc32>
+<sha1>2300da5cb06b720b670fde3d152e230df7706312</sha1>
+<format>Archive BitTorrent</format>
+</file>
+<file name="plotagon-091786_files.xml" source="original">
+<format>Metadata</format>
+<md5>745b34737a6354fb73696a4e56a2f7b8</md5>
+</file>
+<file name="plotagon-091786_meta.sqlite" source="original">
+<mtime>1589111947</mtime>
+<size>11264</size>
+<format>Metadata</format>
+<md5>e4a4974399ef8f84f42a8423f87aeeb9</md5>
+<crc32>352e2568</crc32>
+<sha1>5688ea7b2eabc0adb9d211d01daf4e585be18724</sha1>
+</file>
+<file name="plotagon-091786_meta.xml" source="original">
+<mtime>1589112075</mtime>
+<size>823</size>
+<format>Metadata</format>
+<md5>c0513e8fe5cd2b3e72cabda746754349</md5>
+<crc32>84df4ab6</crc32>
+<sha1>3b109ef93c64d2e68cea7ca095078e411b2d35bd</sha1>
+</file>
+</files>
